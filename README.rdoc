@@ -1,0 +1,1 @@
+An app that follows along with Railscast 238.
